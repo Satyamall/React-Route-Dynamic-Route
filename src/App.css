@@ -1,0 +1,30 @@
+
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+td,th{
+  border: 1px solid gray;
+}
+
+th{
+  background-color: aqua;
+}
+
+.details{
+  color: blue;
+  font-size: 20px;
+}
+
+.page{
+  text-decoration: none;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+}
